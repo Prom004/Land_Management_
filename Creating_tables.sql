@@ -1,3 +1,4 @@
+/*CREATING TABLE*/
 CREATE TABLE Land (
     Land_UPI VARCHAR(20) primary key,
     Owner_SSN integer,
@@ -42,6 +43,7 @@ CREATE TABLE Notarized_Office (
     Cont_No VARCHAR(20),
     Tel_Number integer
 );
+/* INSERTING VALUES INTO THE CREATED TABLE*/
 INSERT INTO Land (Land_UPI, Owner_SSN, L_Location, Purpose_of_the_land)
 VALUES ('1/02/14/031631', '12900921', 'KN 5 ave, Nyarugenge', 'Residence');
 
