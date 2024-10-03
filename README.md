@@ -4,7 +4,3 @@ In Kigali City, every piece of land must have it’s owner. The land itself is i
 
 ## CONCEPTUAL DIAGRAM
 ![Conceptual diagram](https://github.com/user-attachments/assets/200c5aca-e0f0-479c-933c-e23cbdbb51ab)
-
-
- 
-
